@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HosamDyab/HosamDyab/main/assets/neon-banner.gif" alt="Cyberpunk Banner" width="100%"/>
-</p>
-
 <div align="center">
   <h1> HOSAM DYAB</h1>
   <p>
