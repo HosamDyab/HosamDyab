@@ -45,9 +45,9 @@ I'm a **Software Engineer** and **Certified Penetration Tester** with a BSc in C
 ---
 
 ### 🛡️ Achievements
-- 🏆 **Certified Penetration Tester** eJPT
-- 🎓 **BSc in Computer Science**
-- 🥈 **Top 10% in TryHackMe
+- 🏆 **Certified Penetration Tester (eJPT)**  
+- 🎓 **BSc in Computer Science**  
+- 🥈 **Top 10% in TryHackMe CTFs** 
 
 
 ---
