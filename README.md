@@ -68,18 +68,12 @@ I'm a **Software Engineer** and **Certified Penetration Tester** with a BSc in C
 
 ---
 
-### 🕹️ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HosamDyab.HosamDyab&color=06b6d4&style=flat" alt="Visitor Badge" />
 </p>
 
 ---
 
-> *“In a world of 1s and 0s, I rewrite the rules.”*  
-> When I’m not pentesting, I’m [vibing in CTFs, coding neon UIs, or chasing sci-fi plots—edit with your flair].
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HosamDyab/HosamDyab/main/assets/neon-divider.gif" alt="Neon Divider" width="50%"/>
