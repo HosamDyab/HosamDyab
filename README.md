@@ -34,13 +34,13 @@ I'm a **Software Engineer** and **Certified Penetration Tester** with a BSc in C
 
 ---
 
-### 🖥️ Projects
 - **[Hospital Management System](https://github.com/HosamDyab/Hospital-Management-System)**  
-  Streamlined hospital management system with secure data handling.  
-  `Python` `GUI` `SQL`
-- **[Luxury Hotel](https://github.com/HosamDyab/Luxury-Hotel)**  
-  Streamlined hospital management system with secure data handling.  
-  `Flutter` `Dart` `GUI` 
+  A secure Python app for managing hospital records, patient data, and appointments with encrypted storage.  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-0f172a?logo=python&logoColor=06b6d4&style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=f472b6&style=flat)  
+
+- **[Luxury Hotel App](https://github.com/HosamDyab/Luxury-Hotel)**  
+  A Flutter-based mobile app for seamless hotel bookings, real-time availability, and user authentication.  
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=f472b6&style=flat)
 
 ---
 
