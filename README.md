@@ -59,7 +59,7 @@ I'm a **Software Engineer** and **Certified Penetration Tester** with a BSc in C
 
 ---
 
-### 📊 Cyber Metrics
+### 📊 Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HosamDyab&theme=transparent&hide_border=true&show_icons=true&bg_color=0f172a&title_color=06b6d4&text_color=f472b6" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosamDyab&theme=transparent&hide_border=true&background=0f172a&stroke=06b6d4&ring=f472b6" alt="GitHub Streak" />
